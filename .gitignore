@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/output.bed
+/GCA_000001405.15_GRCh38_no_alt_analysis_set.dict
